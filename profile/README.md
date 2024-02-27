@@ -1,12 +1,16 @@
-## Hi there 👋
+![Quyx](https://github.com/QuyxHQ/.github/assets/141498118/3e61805d-f0c0-4814-9605-4c16449eee1a)
 
-<!--
+# Quyx
+xxxxxxxxxxxx
 
-**Here are some ideas to get you started:**
+## Example Projects 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Looking for example projects to get started with?
+
+Check out this [repo](https://github.com/QuyxHQ/examples).
+
+## Security
+
+If you believe you have found a security vulnerability, we kindly ask you to responsibly disclose this and not open a public issue. 
+
+Please email security@quyx.xyz to disclose any security vulnerabilities.
