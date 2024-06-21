@@ -2,7 +2,11 @@
 
 # Quyx
 
-Quyx is a social identity platform built on The Open Network (TON), aimed at simplifying and securing the management of your online presence. Our platform allows users to claim unique usernames through a transparent auction process [(click here)](https://quyx.xyz/claim). Once a username is secured, users can manage their credentials seamlessly using our Telegram mini app [@QuyxBot](https://t.me/QuyxBot?start). This app enables the creation, revocation, and management of credentials, ensuring users have full control over their digital identities.
+Quyx is a social identity platform built on The Open Network (TON), aimed at simplifying and securing the management of your online presence.
+
+Our platform allows users to claim unique usernames through a transparent auction process [(click here)](https://quyx.xyz/claim).
+
+Once a username is secured, users can manage their credentials seamlessly using our Telegram mini app [@QuyxBot](https://t.me/QuyxBot?start). This app enables the creation, revocation, and management of credentials, ensuring users have full control over their digital identities.
 
 ## Resources
 
